@@ -1,0 +1,1 @@
+{"name":"ecogrid-smart-waste","version":"1.0.0","private":true,"scripts":{"dev":"vite frontend","build":"vite build frontend"},"devDependencies":{"typescript":"latest","vite":"latest"}}
